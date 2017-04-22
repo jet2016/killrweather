@@ -22,7 +22,7 @@ object Versions {
   val Albebird       = "0.8.1"
   val Bijection      = "0.7.0"
 
-  val Cassandra      = "2.1.3"
+  val Cassandra      = "3.0.8"//"2.1.3"
   val CassandraDriver = "3.0.2"
 
   val Bootstrap      = "3.0.0"
